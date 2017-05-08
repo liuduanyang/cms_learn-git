@@ -30,7 +30,9 @@ A：
 Windows平台
 * MarkdownPad
 * MarkPad
-  
+* Atom
+* HBuilder
+  
 Linux 平台
 * ReText
   
@@ -40,7 +42,9 @@ Mac 平台
 Web端
 * 简书
 * 有道云笔记
-  
+* github
+* markable.in
+  
     
 ### Q：MarkDown的区块元素和区段元素分别包含哪些？
 A：  
